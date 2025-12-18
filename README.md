@@ -109,12 +109,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 📄 License
 This project is licensed under the MIT License.
 
-
-GitHub: @NavjotBhullar
-Email: navjotbhullar008@gmail.com
-
 🙏 Acknowledgments
 Firebase for backend services
 NewsAPI for agriculture news
 Flutter community
 Made with ❤️ for Indian Farmers
+Developed by Aniket Singh, Anmoldeep Singh, Navjot Singh Bhullar
