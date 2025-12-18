@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681717152867",
+    "project_id": "kisanseva-ac3dc",
+    "storage_bucket": "kisanseva-ac3dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681717152867:android:cb79b3b22e6a9c70d84c56",
+        "android_client_info": {
+          "package_name": "com.example.kisanseva_modern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681717152867-159on1p6jfjtp3fdk04oetu4h7uvh4fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFzQdtf_zV9EwTAfxiJd1lNZ1MsbTLeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681717152867-159on1p6jfjtp3fdk04oetu4h7uvh4fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

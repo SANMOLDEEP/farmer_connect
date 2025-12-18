@@ -1,0 +1,61 @@
+name: kisanseva
+description: Modern farmer assistance app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+ 
+  # Firebase (modern versions)
+  firebase_core: ^3.1.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.0.0
+  firebase_storage: ^12.0.0
+
+  timeago: ^3.6.1
+
+  # ✅ Add these NEW packages
+  cached_network_image: ^3.3.0
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  persistent_bottom_nav_bar_v2: ^4.2.8
+  page_transition: ^2.1.0
+
+  # ✅ Add these for map
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  
+  # Utilities
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.2.2
+  http: ^1.1.2
+  get: ^4.6.6
+  # intl is provided by flutter_localizations - no need to add it
+  
+  # Images & ML
+  image_picker: ^1.0.7
+  image: ^4.1.6
+  
+  # Location
+  geolocator: ^10.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - lang/
